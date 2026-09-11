@@ -235,4 +235,4 @@ This repository serves as the official landing page for Business-in-a-Box. The s
 **Get the most recent version of Business-in-a-Box today!**
 
 ---
-**Last updated:** 2026-09-11 14:52:48 UTC
+**Last updated:** 2026-09-11 18:14:26 UTC
